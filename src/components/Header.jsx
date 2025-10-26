@@ -45,7 +45,7 @@ export default function Header() {
           textShadow: "0 3px 12px rgba(44,62,80,0.10)",
         }}
       >
-        <span role="img" aria-label="chart" style={{ marginRight: 8 }}>📈</span>
+        <span role="img" aria-label="chart" style={{ marginRight: 8 }}>📉📈</span>
         KQL Analytics Hub
       </Typography>
       
